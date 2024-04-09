@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgusBasterra
 - 👀 I’m interested in software technologies
-- 🌱 I’m currently learning react.js with MERN stack
+- 🌱 I'm a web developer with experience in React, Vue, Python, and Node.js. Passionate about continuous learning.
 - 📫 How to reach me agustinbasterra23@gmail.com
 
 <!---
